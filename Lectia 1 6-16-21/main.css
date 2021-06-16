@@ -1,0 +1,12 @@
+body{
+    background-color: aliceblue;
+}
+
+.footer{
+    background: black;
+    color:white;
+
+}
+.site-logo{
+    width: 200px!important;
+}
